@@ -1,0 +1,32 @@
+.app {
+  margin: 2rem;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  margin: 2rem;
+}
+.title h1 {
+  font-weight: normal;
+  font-size: 3rem;
+  margin-bottom: 0.6rem;
+}
+.end {
+  border: 3px solid #999;
+  width: 140px;
+  height: 110px;
+  display: inline-block;
+  line-height: 110px;
+  background-color: #fff;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.buttons > * {
+  margin: 10px;
+}
