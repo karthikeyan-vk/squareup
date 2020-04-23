@@ -1,9 +1,9 @@
 {
-  "name": "reactfillsquare",
+  "name": "squareup",
   "version": "0.2.0",
   "private": true,
   "main": "index.js",
-  "homepage": "https://squareup.tk",
+  "homepage": "https://squareup.tk/",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
     "react": "^16.2.0",
@@ -25,11 +25,10 @@
   "devDependencies": {
     "enzyme": "^3.2.0",
     "enzyme-adapter-react-16": "^1.1.0",
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^1.2.0",
     "react-test-renderer": "^16.2.0"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/karthikeyan-vk/reactFillSquare.git"
