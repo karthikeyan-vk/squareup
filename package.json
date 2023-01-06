@@ -9,7 +9,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.13.1",
     "react-modal": "^3.3.2",
-    "react-scripts": "1.1.1",
+    "react-scripts": "5.0.1",
     "reactjs-popup": "^1.0.4",
     "serve": "^6.3.1"
   },
